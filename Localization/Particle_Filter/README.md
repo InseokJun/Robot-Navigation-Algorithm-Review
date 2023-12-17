@@ -23,6 +23,8 @@ Particle Filter, often referred to as a Monte Carlo Localization method, describ
 **Estimation (Final):**
 1. Compute the estimated state by considering the weighted sum of the resampled particles.
 
+<img width="1000" alt="Untitled" src="https://github.com/InseokJun/Robot-Navigation-Algorithm-Review/assets/153903563/2789dd36-f269-4bde-b182-608c3f39e18f">
+
 ## Directory Structure:
 
 - **`ParticleFilter` Directory:**
